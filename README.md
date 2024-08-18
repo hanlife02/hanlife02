@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hi there, I'm Ethan👋, a student from PKU-COE!<br>
-  **Welcome to my profile!**<br><br>
+  **Welcome to my profile!**<br>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hanlife02.hanlife02) 
 ![Language](https://img.shields.io/github/languages/top/hanlife02/hanlife02)
@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/github/license/hanlife02/hanlife02)
 ![GitHub Issues](https://img.shields.io/github/issues/hanlife02/hanlife02)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/hanlife02/hanlife02)
-<br><br>
+<br>
 
 ## 🌐 My Social Platforms
 
@@ -23,7 +23,6 @@
  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:han@hanlife02.com.cn)
  [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=About.me&logoColor=white)](https://hanlife02.com.cn)
 
-<br>
 
 ## 🛠️ My Tech Stack
 
@@ -52,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </div>
 
- <br>
+ 
  
 ## 📊 GitHub Stats
   
@@ -60,7 +59,7 @@
 
 
 </div>
-<br>
+
 <div align="center">
 
   # 希望我能让小蛇多吃一些！
