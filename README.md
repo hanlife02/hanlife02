@@ -33,8 +33,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <!-- Podman -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/podman.svg" alt="Podman" width="40" height="40"/>
-  <!-- ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
+  <!-- ChatGPT (Black and White OpenAI Logo) -->
+  <img src="https://hanlife02.com.cn/api/v2/objects/file/lx16uvvi4sojm93n5i.svg" alt="ChatGPT" width="40" height="40"/>
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- C++ -->
@@ -49,9 +49,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
-
- 
  
 ## 📊 GitHub Stats
   
