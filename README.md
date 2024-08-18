@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![](https://hanlife02.com.cn/api/v2/objects/file/q60a4z07q0k0n9fzta.png)
+  ![](https://hanlife02.com.cn/api/v2/objects/file/jljg4eqln7elxircf1.png)
   [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=10&center=true&vCenter=true&multiline=true&width=450&height=80&lines=Hi+%20+there%2C+I'm+%20+Ethan.;A+%20+student+%20+from+%20+PKU-COE&repeat=false)](https://git.io/typing-svg)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hanlife02.hanlife02) 
