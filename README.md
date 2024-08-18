@@ -1,7 +1,8 @@
 <div align="center">
   
   # Hi there, I'm Ethan👋, a student from PKU-COE!<br>
-  **Welcome to my profile!**<br>
+  ## Don't stay awake for too long.<br>
+<br>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hanlife02.hanlife02) 
 ![Language](https://img.shields.io/github/languages/top/hanlife02/hanlife02)
@@ -21,8 +22,9 @@
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hanlife02/)
  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/hanlife02)
  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:han@hanlife02.com.cn)
- [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=About.me&logoColor=white)](https://hanlife02.com.cn)
+ [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=About.me&logoColor=white)](https://hanlife02.com.cn)<br>
 
+ **THis is my blog  :  https://hanlife02.com.cn**
 
 ## 🛠️ My Tech Stack
 
