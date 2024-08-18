@@ -56,8 +56,8 @@
 </div>
  
 ## 📊 GitHub Stats
-  
-![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlife02&show_icons=true&theme=radical)
+
+![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlife02&show_icons=true&theme=blueberry)
 
 
 </div>
