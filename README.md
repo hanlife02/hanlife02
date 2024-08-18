@@ -24,7 +24,35 @@
  [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=About.me&logoColor=white)](https://hanlife02.com.cn)
 
 <br>
- 
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <!-- Visual Studio Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <!-- Podman -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/podman.svg" alt="Podman" width="40" height="40"/>
+  <!-- ChatGPT -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <!-- Adobe After Effects -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="40" height="40"/>
+  <!-- Adobe Illustrator -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</div>
+
+ <br>
 ## 📊 GitHub Stats
   
 ![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlife02&show_icons=true&theme=radical)
