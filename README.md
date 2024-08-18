@@ -1,6 +1,7 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=10&color=FFFFFF&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Hi+%20+there%2C+I'm+%20+Ethan.;A+%20+student+%20+from+%20+PKU-COE&repeat=false)](https://git.io/typing-svg)
+  # Hi there, I'm Ethan👋, a student from PKU-COE!<br>
+  **Welcome to my profile!**<br><br>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hanlife02.hanlife02) 
 ![Language](https://img.shields.io/github/languages/top/hanlife02/hanlife02)
@@ -10,6 +11,7 @@
 ![License](https://img.shields.io/github/license/hanlife02/hanlife02)
 ![GitHub Issues](https://img.shields.io/github/issues/hanlife02/hanlife02)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/hanlife02/hanlife02)
+<br><br>
 
 ## 🌐 My Social Platforms
 
@@ -20,6 +22,8 @@
  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/hanlife02)
  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:han@hanlife02.com.cn)
  [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=About.me&logoColor=white)](https://hanlife02.com.cn)
+
+<br>
  
 ## 📊 GitHub Stats
   
@@ -27,9 +31,7 @@
 
 
 </div>
-
-
-
+<br>
 <div align="center">
 
   # 希望我能让小蛇多吃一些！
