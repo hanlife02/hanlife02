@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=10&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Hi+%20+there%2C+I'm+%20+Ethan.;A+%20+student+%20+from+%20+PKU-COE&repeat=false)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=4000&pause=10&color=FFFFFF&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Hi+%20+there%2C+I'm+%20+Ethan.;A+%20+student+%20+from+%20+PKU-COE&repeat=false)](https://git.io/typing-svg)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hanlife02.hanlife02) 
 ![Language](https://img.shields.io/github/languages/top/hanlife02/hanlife02)
@@ -11,36 +11,21 @@
 ![GitHub Issues](https://img.shields.io/github/issues/hanlife02/hanlife02)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/hanlife02/hanlife02)
 
+## 🌐 My Social Platforms
 
-
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hanlife02)
+ [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1546192745)
+ [![网易云音乐](https://img.shields.io/badge/iCloud%20Music-E60026?style=flat-square&logo=netease&logoColor=white)](https://music.163.com/#/user/home?id=1797049896)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hanlife02/)
+ [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/hanlife02)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:han@hanlife02.com.cn)
+ [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=About.me&logoColor=white)](https://hanlife02.com.cn)
+ 
 ## 📊 GitHub Stats
   
 ![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlife02&show_icons=true&theme=radical)
 
-## 🌐 My Social Platforms
 
-</div>
-<div align="center">
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/hanlife02/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="border-radius: 50%;"/>
-  </a>
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/c/hanlife02" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40" style="border-radius: 50%;"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/hanlife02" target="_blank">
-    <img src="https://hanlife02.com.cn/api/v2/objects/file/xbust5alaltjxt0hu9.jpg" alt="GitHub" width="40" height="40" style="border-radius: 50%;"/>
-  </a>
-  <!-- Bilibili -->
-  <a href="https://space.bilibili.com/1546192745" target="_blank">
-    <img src="https://hanlife02.com.cn/api/v2/objects/file/fl8ldailo0e2xn985e.png" alt="Bilibili" width="40" height="40" style="border-radius: 50%;"/>
-  </a>
-  <!-- 网易云音乐 -->
-  <a href="https://music.163.com/#/user/home?id=1797049896" target="_blank">
-    <img src="https://hanlife02.com.cn/api/v2/objects/file/1vrzhm4fkgt6ojiz6l.png" alt="NetEase Cloud Music" width="40" height="40" style="border-radius: 50%;"/>
-  </a>
 </div>
 
 
