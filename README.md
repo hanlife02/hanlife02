@@ -2,7 +2,6 @@
   
   # Hi there, I'm Ethan👋, a student from PKU-COE!<br>
   ## Don't stay awake for too long.<br>
-<br>
 
 ## 📊 GitHub Stats
 
