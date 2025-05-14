@@ -17,12 +17,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hanlife02/hanlife02/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 挂一张壁纸，我的头像也来源于此番
-<br>
-
-![轻音少女](https://github.com/user-attachments/assets/4daa4266-0923-44bd-bd6f-7cdbe13ef525)
-
-## 轻音少女
 </div>
 
 
