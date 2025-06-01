@@ -2,7 +2,7 @@
  * @Author: Ethan && ethan@hanlife02.com
  * @Date: 2025-06-01 13:47:15
  * @LastEditors: Ethan && ethan@hanlife02.com
- * @LastEditTime: 2025-06-01 13:50:09
+ * @LastEditTime: 2025-06-01 13:59:44
  * @FilePath: /hanlife02/README.md
  * @Description:
  *
@@ -16,6 +16,14 @@ Hi , I'm **Ethan** , a sophomore student at Peking University.
 I enjoy learning how to code during my leisure time, and I am very interested in the **AI4S** field.
 
 # Social platform
+
+<p style="font-size: 16px; line-height: 1.5;">
+Home : 
+  <a href="https://hanlife02.com" style="text-decoration: none; display: inline-flex; align-items: center; color: #D3D3D3; border-bottom: 1px ridge">
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="m12 4.27l9.577 7.172l-.623.793L19 10.769V20H5v-9.23l-1.954 1.465l-.623-.793zm-3.496 8.198q0 1.003 1.079 2.138T12 16.962q1.377-1.221 2.456-2.355t1.079-2.134q0-.83-.57-1.383q-.57-.551-1.368-.551q-.493 0-.896.204q-.403.205-.701.515q-.26-.31-.678-.515q-.418-.204-.875-.204q-.8 0-1.372.548q-.571.549-.571 1.381"/></svg>
+      &nbsp;https://hanlife02.com
+  </a>
+</p>
 
 <p style="font-size: 16px; line-height: 1.5;">
 Email : 
