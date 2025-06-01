@@ -1,22 +1,15 @@
-<div align="center">
-  
-  # Hi there, I'm Ethan👋, a student from PKU-COE!<br>
-  ## Don't stay awake for too long.<br>
+# About Me
 
-## 📊 GitHub Stats
+Hi , I'm **Ethan** , a sophomore student at Peking University.
 
-![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlife02&show_icons=true&theme=blueberry)
+I enjoy learning how to code during my leisure time, and I am very interested in the **AI4S** field.
 
-</div>
+# 
 
 <div align="center">
-
-<picture >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanlife02/hanlife02/output/github-contribution-grid-snake-dark.svg?palette=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanlife02/hanlife02/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hanlife02/hanlife02/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlife02&layout=compact&theme=tokyonight&hide_border=true" width="34%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanlife02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%">
+</p>
 </div>
-
-
+<div align="center">
