@@ -19,7 +19,7 @@ I enjoy learning how to code during my leisure time, and I am very interested in
 
 # Social platform
 
-<img align="right" src="https://hanlife02.com/api/v2/objects/icon/2qjq4uqvk7kvlqrwnj.png" width="30%"/>
+<img align="right" src="https://hanlife02.com/api/v2/objects/icon/2qjq4uqvk7kvlqrwnj.png" width="35%"/>
 
 <p style="font-size: 16px; line-height: 1.5;">
 Home : 
