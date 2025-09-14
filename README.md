@@ -17,7 +17,7 @@ I enjoy learning how to code during my leisure time, and I am very interested in
 
 # Social platform
 
-<img align="right" src="https://github.com/user-attachments/assets/9dc976d1-75b9-4f0c-a253-dd1941f2a932" width="30%"/>
+<img align="right" src="https://github.com/user-attachments/assets/9dc976d1-75b9-4f0c-a253-dd1941f2a932" width="20%"/>
 
 <p style="font-size: 16px; line-height: 1.5;">
 Home : 
