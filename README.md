@@ -11,7 +11,7 @@
 
 # About Me
 
-Hi , I'm **Ethan** , a sophomore student at Peking University.
+Hi , I'm **Ethan** , a third-year student at Peking University.
 
 I enjoy learning how to code during my leisure time, and I am very interested in the **AI4S** field.
 
