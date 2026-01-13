@@ -61,7 +61,4 @@ Youtube :
 
 ---
 
-<div align="center">
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanlife02&theme=tokyonight)](https://github.com/hanlife02)
-</div>
-<div align="center">
+[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanlife02&theme=tokyonight)](https://github.com/hanlife02)
