@@ -61,4 +61,11 @@ Youtube :
 
 ---
 
-[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanlife02&theme=tokyonight)](https://github.com/hanlife02)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" />
+  </a>
+</p>
