@@ -51,14 +51,6 @@ Bilibili :
   </a>
 </p>
 
-<p style="font-size: 16px; line-height: 1.5;">
-Youtube : 
-  <a href="https://www.youtube.com/@hanlife02" style="text-decoration: none; display: inline-flex; align-items: center; color: #D3D3D3; border-bottom: 1px ridge">
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 512 512"><!-- Icon from IonIcons by Ben Sperry - https://github.com/ionic-team/ionicons/blob/main/LICENSE --><path fill="#9e9e9e" d="M508.64 148.79c0-45-33.1-81.2-74-81.2C379.24 65 322.74 64 265 64h-18c-57.6 0-114.2 1-169.6 3.6C36.6 67.6 3.5 104 3.5 149C1 184.59-.06 220.19 0 255.79q-.15 53.4 3.4 106.9c0 45 33.1 81.5 73.9 81.5c58.2 2.7 117.9 3.9 178.6 3.8q91.2.3 178.6-3.8c40.9 0 74-36.5 74-81.5c2.4-35.7 3.5-71.3 3.4-107q.34-53.4-3.26-106.9M207 353.89v-196.5l145 98.2Z"/></svg>
-      &nbsp; https://www.youtube.com/@hanlife02
-  </a>
-</p>
-
 ---
 
 <p align="left">
